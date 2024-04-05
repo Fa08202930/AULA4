@@ -21,3 +21,4 @@ npx cypress run
 
 # Aplicação de Base:
 https://www.saucedemo.com/ 
+
